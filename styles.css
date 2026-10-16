@@ -1,0 +1,114 @@
+/* ===== Global Page Styles ===== */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f7f9;
+    color: #222;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* ===== Headings ===== */
+h1 {
+    font-size: 2rem;
+    color: #2a5d84;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 1.6rem;
+    color: #2a5d84;
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 1.3rem;
+    color: #2a5d84;
+    margin-top: 15px;
+}
+
+/* ===== Paragraphs ===== */
+p {
+    font-size: 1rem;
+    margin: 15px 20px;
+}
+
+/* ===== Main Navigation (Blue Bar on Index Page) ===== */
+nav {
+    background-color: #2a5d84;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* ===== Week 6 Navigation Bar (Dark Header Bar) ===== */
+.headerWrapper {
+    width: 100%;
+    background-color: #333;
+    padding: 10px 0;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    color: #ffcc00;
+}
+
+/* ===== Images ===== */
+img {
+    max-width: 100%;
+    display: block;
+    margin: 20px auto;
+    border-radius: 6px;
+}
+
+/* ===== Lists ===== */
+ul, ol {
+    margin: 15px 40px;
+}
+
+/* ===== Links in Body Text ===== */
+a {
+    color: #1b4f72;
+}
+
+a:hover {
+    color: #163d56;
+}
+
+/* ===== Footer ===== */
+footer {
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+    background-color: #e3e9ef;
+    color: #333;
+}
+

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kratom Dependence and Withdrawal</title>
+
+    <!-- Correct CSS path -->
+    <link rel="stylesheet" href="styles.css">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.7;
+            margin: 0;
+            background-color: #f4f7f4;
+            color: #243024;
+        }
+
+        .headerWrapper {
+            width: 100%;
+            background-color: #333;
+            padding: 10px 0;
+        }
+
+        .navbar ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        .navbar li {
+            display: inline-block;
+            padding: 10px 20px;
+        }
+
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .navbar a:hover {
+            color: #ffcc00;
+        }
+
+        header {
+            background-color: #234b2c;
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        main {
+            max-width: 900px;
+            margin: 35px auto;
+            padding: 0 25px 50px;
+        }
+
+        section {
+            background-color: white;
+            padding: 25px;
+            margin-bottom: 25px;
+            border-radius: 12px;
+        }
+
+        img {
+            display: block;
+            width: 100%;
+            max-width: 700px;
+            margin: 25px auto 10px;
+            border-radius: 12px;
+        }
+
+        .caption {
+            text-align: center;
+            font

@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kratom Information</title>
+
+    <!-- Correct CSS placement -->
+    <link rel="stylesheet" href="styles.css">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+
+        /* Week 6 Navigation Bar */
+        .headerWrapper {
+            width: 100%;
+            background-color: #333;
+            padding: 10px 0;
+        }
+
+        .navbar ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        .navbar li {
+            display: inline-block;
+            padding: 10px 20px;
+        }
+
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .navbar a:hover {
+            color: #ffcc00;
+        }
+
+        nav {
+            margin-bottom: 20px;
+        }
+
+        nav a {
+            margin-right: 15px;
+            text-decoration: none;
+            color: #0066cc;
+            font-weight: bold;
+        }
+
+        img {
+            max-width: 700px;
+            display: block;
+            margin: 20px auto;
+            border-radius: 12px;
+        }
+
+        p.caption {
+            text-align: center;
+            font-size: 0.9rem;
+            color: #555;
+        }
+
+        h1, h2 {
+            margin-top: 30px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Navigation Bar -->
+    <div class="headerWrapper">
+        <div class="navbar">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="risks.html">Risks</a></li>
+                <li><a href="effects.html">Effects</a></li>
+                <li><a href="dependence.html">Dependence</a></li>
+                <li><a href="resources.html">Resources</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <h1>Kratom Information</h1>
+
+    <!-- Page Navigation -->
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="risks.html">Risks</a>
+        <a href="effects.html">Effects</a>
+        <a href="dependence.html">Dependence</a>
+        <a href="resources.html">Resources</a>
+    </nav>
+
+    <!-- FIXED IMAGE: filename corrected -->
+    <img src="images/kratom-plant.png" alt="Kratom powder">
+
+    <p class="caption">
+        Kratom powder, commonly sold in smoke shops and online.
+    </p>
+
+    <h2>What is Kratom?</h2>
+
+    <p>
+        Kratom is a plant-based substance derived from the leaves of the 
+        <em>Mitragyna speciosa</em> tree, which grows naturally in Southeast Asia. 
+        It has been used traditionally for its stimulant and pain-relieving 
+        properties, but in recent years it has become widely available in the 
+        United States through smoke shops, gas stations, and online retailers.
+    </p>
+
+    <p>
+        The active compounds in kratom, mitragynine and 7-hydroxymitragynine, 
+        interact with opioid receptors in the brain. This means kratom can produce 
+        effects similar to opioids, including euphoria, pain relief, and sedation. 
+        However, it can also cause dependence, withdrawal, and serious health risks.
+    </p>
+
+    <h2>Why People Turn to Kratom</h2>
+    <p>
+        Many individuals begin using kratom because they believe it offers a natural 
+        alternative for managing pain, anxiety, or fatigue. Some people report that 
+        kratom provides temporary relief or boosts their mood, especially during 
+        stressful periods. Others use it as a self-directed method to cope with 
+        withdrawal symptoms from opioids or other substances.
+    </p>
+
+    <p>
+        However, these perceived benefits often come with significant risks. Because 
+        kratom products vary widely in strength and purity, users may unintentionally 
+        consume higher doses than expected. This increases the likelihood of harmful 
+        side effects, dependence, and long-term health complications.
+    </p>
+
+    <h2>Understanding the Science Behind Kratom</h2>
+    <p>
+        Kratom’s effects come from its interaction with opioid receptors in the brain. 
+        While it is not classified as an opioid, its active compounds behave similarly 
+        to opioid medications. This means kratom can produce both stimulating and 
+        sedating effects depending on the dose. Lower doses may create feelings of 
+        alertness, while higher doses can lead to drowsiness or even dangerous 
+        respiratory depression.
+    </p>
+
+    <p>
+        Researchers continue to study kratom to better understand its impact on the 
+        body, but current evidence shows that regular use can alter brain chemistry 
+        and increase the risk of dependence. Because kratom is not regulated, users 
+        may also be exposed to contaminants such as heavy metals, bacteria, or 
+        adulterants added during manufacturing.
+    </p>
+
+    <h2>Public Health Concerns</h2>
+    <p>
+        Public health agencies, including the FDA and CDC, have issued warnings about 
+        kratom due to rising reports of hospitalizations, poisonings, and deaths 
+        associated with its use. Many of these cases involve high doses, contaminated 
+        products, or interactions with other substances. Despite these concerns, kratom 
+        remains widely available, making education and awareness essential for anyone 
+        considering its use.
+    </p>
+
+    <p>
+        This website aims to provide clear, accessible information to help individuals 
+        make informed decisions. Whether you are researching kratom for personal use, 
+        academic purposes, or general curiosity, understanding both its potential 
+        benefits and serious risks is crucial.
+    </p>
+
+</body>
+</html>
+

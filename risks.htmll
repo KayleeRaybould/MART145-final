@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Risks of Kratom</title>
+
+    <!-- Correct CSS path -->
+    <link rel="stylesheet" href="styles.css">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.7;
+            margin: 0;
+            background-color: #f4f7f4;
+            color: #243024;
+        }
+
+        .headerWrapper {
+            width: 100%;
+            background-color: #333;
+            padding: 10px 0;
+        }
+
+        .navbar ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        .navbar li {
+            display: inline-block;
+            padding: 10px 20px;
+        }
+
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .navbar a:hover {
+            color: #ffcc00;
+        }
+
+        header {
+            background-color: #234b2c;
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        main {
+            max-width: 900px;
+            margin: 35px auto;
+            padding: 0 25px 50px;
+        }
+
+        section {
+            background-color: white;
+            padding: 25px;
+            margin-bottom: 25px;
+            border-radius: 12px;
+        }
+
+        img {
+            display: block;
+            width: 100%;
+            max-width: 700px;
+            margin: 25px auto 10px;
+            border-radius: 12px;
+        }
+
+        .caption {
+            text-align: center;
+            font-size: 0.9rem;
+            color: #5d665d;
+        }
+
+        nav a {
+            color: white;
+            margin: 0 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Navigation Bar -->
+    <div class="headerWrapper">
+        <div class="navbar">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="risks.html">Health Risks</a></li>
+                <li><a href="effects.html">Effects</a></li>
+                <li><a href="dependence.html">Dependence & Withdrawal</a></li>
+                <li><a href="resources.html">Resources</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <header>
+        <h1>The Health Risks of Kratom</h1>
+    </header>
+
+    <!-- FIXED IMAGE: your filename had a space, which breaks GitHub Pages -->
+    <img src="images/kratom-label.png" alt="Kratom warning label from a public health source">
+
+    <p class="caption">
+        Public health warnings highlight the risks associated with kratom use.
+    </p>
+
+    <p class="caption">
+        Image credit: FDA / DVIDS (Public Domain)
+    </p>
+
+    <main>
+        <section>
+            <h2>Major Health Risks</h2>
+
+            <p>
+                Kratom can affect the body in different ways depending on the amount used 
+                and the person using it. Although kratom comes from a plant, natural does 
+                not always mean something is safe.
+            </p>
+
+            <img 
+                src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Kratom_plant.jpg"
+                alt="Kratom plant leaves used to make kratom products"
+            >
+            <p class="caption">
+                Kratom plant. Image: Wikimedia Commons, CC0.
+            </p>
+
+            <p>
+                Some reported risks include liver toxicity, seizures, dependence, withdrawal, 
+                and contamination in unregulated products. People should be cautious and seek 
+                reliable information before using kratom.
+            </p>
+        </section>
+    </main>
+
+</body>
+</html>
+
