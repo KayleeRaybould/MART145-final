@@ -77,9 +77,27 @@
 </head>
 
 <body>
+<body>
 
-    <!-- Navigation Bar -->
-    <div class="headerWrapper">
+<h1>Kaylee Raybould's Web Design Portfolio</h1>
+
+<p>
+Welcome to my web design portfolio. This website showcases projects I
+completed in MART 145. Through these projects I learned HTML, CSS,
+website organization, responsive design, forms, and Bootstrap.
+</p>
+
+<h2>About Me</h2>
+
+<p>
+My name is Kaylee Raybould. I am pursuing a Bachelor's degree in Criminal
+Justice with a concentration in Substance Abuse. This portfolio highlights
+web design projects completed throughout the semester.
+</p>
+
+<!-- Navigation Bar -->
+
+<div class="headerWrapper">
         <div class="navbar">
             <ul>
                 <li><a href="index.html">Home</a></li>
